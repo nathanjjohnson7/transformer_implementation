@@ -1,0 +1,5091 @@
+************* saved_model ********************  0
+Epoch 0
+0.007196755148470402
+Input: you re resilient .
+
+Target: vous etes tenaces .
+
+Output: ['geniales', 'productifs', 'productifs', 'malines', 'geniales']
+
+
+
+Epoch 1
+0.007231711409986019
+Input: you re odd .
+
+Target: vous etes bizarre .
+
+Output: ['geniales', 'productifs', 'productifs', 'affolee', 'geniales']
+
+
+
+************* saved_model ********************  2
+Epoch 2
+0.007159179542213678
+Input: you re rude .
+
+Target: vous etes grossieres .
+
+Output: ['geniales', 'productifs', 'productifs', 'affolee', 'geniales']
+
+
+
+Epoch 3
+0.0072175986133515835
+Input: you are important .
+
+Target: vous etes important .
+
+Output: ['riches', 'productifs', 'productifs', 'devets', 'affolee']
+
+
+
+************* saved_model ********************  4
+Epoch 4
+0.007065957877784967
+Input: they re trying .
+
+Target: ils essayent .
+
+Output: ['riches', 'heureuses', 'sur', 'geniales', 'productifs']
+
+
+
+Epoch 5
+0.0071066939271986485
+Input: you re adorable .
+
+Target: tu es adorable .
+
+Output: ['geniales', 'affolee', 'perdues', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  6
+Epoch 6
+0.006976437754929066
+Input: they re identical .
+
+Target: elles sont identiques .
+
+Output: ['geniales', 'productifs', 'affolee', 'sur', 'geniales']
+
+
+
+************* saved_model ********************  7
+Epoch 7
+0.006848704069852829
+Input: you are beautiful .
+
+Target: vous etes belle .
+
+Output: ['riches', 'productifs', 'devets', 'chaud', 'mince']
+
+
+
+************* saved_model ********************  8
+Epoch 8
+0.006633251905441284
+Input: you re sleepy .
+
+Target: tu es endormi .
+
+Output: ['geniales', 'affolee', 'perdues', 'idiotes', 'geniales']
+
+
+
+************* saved_model ********************  9
+Epoch 9
+0.006483941338956356
+Input: you re unnecessary .
+
+Target: tu es superflue .
+
+Output: ['geniales', 'affolee', 'perdues', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  10
+Epoch 10
+0.006403835024684668
+Input: we re stubborn .
+
+Target: nous sommes tetues .
+
+Output: ['riches', 'perdues', 'affolee', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  11
+Epoch 11
+0.006329928990453482
+Input: we re committed .
+
+Target: nous sommes engagees .
+
+Output: ['sur', 'perdues', 'affolee', 'geniales', 'affolee']
+
+
+
+************* saved_model ********************  12
+Epoch 12
+0.006050335709005594
+Input: we re comedians .
+
+Target: nous sommes comediens .
+
+Output: ['sur', 'affolee', 'affolee', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  13
+Epoch 13
+0.005848756525665522
+Input: you are deranged .
+
+Target: tu es derange .
+
+Output: ['grassouillet', 'affolee', 'excusez', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  14
+Epoch 14
+0.005567135289311409
+Input: we re different .
+
+Target: nous sommes differents .
+
+Output: ['grassouillet', 'perdues', 'affolee', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  15
+Epoch 15
+0.005537407472729683
+Input: she s hyperactive .
+
+Target: elle est hyperactive .
+
+Output: ['sur', 'partent', 'on', 'inefficace', 'mince']
+
+
+
+************* saved_model ********************  16
+Epoch 16
+0.0053707812912762165
+Input: you re productive .
+
+Target: tu es productif .
+
+Output: ['geniales', 'affolee', 'excusez', 'ponctuelles', 'mince']
+
+
+
+************* saved_model ********************  17
+Epoch 17
+0.005209219641983509
+Input: you re jealous .
+
+Target: tu es jalouse .
+
+Output: ['malines', 'affolee', 'excusez', 'affolee', 'mince']
+
+
+
+************* saved_model ********************  18
+Epoch 18
+0.005103214178234339
+Input: you re joking !
+
+Target: tu plaisantes !
+
+Output: ['sur', 'affolee', 'affolee', 'affolee', 'affolee']
+
+
+
+************* saved_model ********************  19
+Epoch 19
+0.004891564138233662
+Input: you re nuts !
+
+Target: t es givre !
+
+Output: ['sur', 'humble', 'excusez', 'mince', 'sur']
+
+
+
+************* saved_model ********************  20
+Epoch 20
+0.004741524811834097
+Input: they re wonderful .
+
+Target: elles sont merveilleuses .
+
+Output: ['sur', 'fais', 'voyante', 'affolee', 'mince']
+
+
+
+************* saved_model ********************  21
+Epoch 21
+0.00439673475921154
+Input: you re considerate .
+
+Target: tu es prevenant .
+
+Output: ['grassouillet', 'affolee', 'excusez', 'creve', 'mince']
+
+
+
+************* saved_model ********************  22
+Epoch 22
+0.004323350265622139
+Input: i m ready !
+
+Target: je suis prete !
+
+Output: ['sur', 'organises', 'organises', 'sur', 'sur']
+
+
+
+************* saved_model ********************  23
+Epoch 23
+0.004073957446962595
+Input: i m single .
+
+Target: je suis celibataire .
+
+Output: ['fascines', 'neutre', 'inefficace', 'humble', 'EOS']
+
+
+
+************* saved_model ********************  24
+Epoch 24
+0.003910768777132034
+Input: he is english .
+
+Target: il est anglais .
+
+Output: ['vous', 'triste', 'sur', 'neutre', 'EOS']
+
+
+
+************* saved_model ********************  25
+Epoch 25
+0.0036103869788348675
+Input: you are wrong .
+
+Target: tu as tort .
+
+Output: ['vous', 'creve', 'aneanti', 'invites', 'EOS']
+
+
+
+************* saved_model ********************  26
+Epoch 26
+0.0034602906089276075
+Input: you re contributing .
+
+Target: vous contribuez .
+
+Output: ['vous', 'arrose', 'ponctuelles', 'EOS', 'talentueuses']
+
+
+
+************* saved_model ********************  27
+Epoch 27
+0.003423489397391677
+Input: we re strong .
+
+Target: nous sommes forts .
+
+Output: ['fascines', 'perdues', 'invites', 'invites', 'EOS']
+
+
+
+************* saved_model ********************  28
+Epoch 28
+0.003382760798558593
+Input: we re trapped .
+
+Target: nous sommes piegees .
+
+Output: ['vous', 'perdues', 'invites', 'affolee', 'EOS']
+
+
+
+************* saved_model ********************  29
+Epoch 29
+0.0029650027863681316
+Input: they re friends .
+
+Target: elles sont amies .
+
+Output: ['vous', 'vilaine', 'voyante', '.', 'EOS']
+
+
+
+************* saved_model ********************  30
+Epoch 30
+0.002783998614177108
+Input: we re sinking .
+
+Target: nous coulons .
+
+Output: ['vous', 'restent', 'neutre', 'EOS', '.']
+
+
+
+************* saved_model ********************  31
+Epoch 31
+0.002737293718382716
+Input: i m wet .
+
+Target: je suis mouillee .
+
+Output: ['vous', 'suis', 'inefficace', '.', 'EOS']
+
+
+
+Epoch 32
+0.00282088085077703
+Input: you re sick !
+
+Target: vous etes malade !
+
+Output: ['vous', 'etes', 'va', '.', '.']
+
+
+
+************* saved_model ********************  33
+Epoch 33
+0.0026059397496283054
+Input: i m flattered .
+
+Target: je suis flatte .
+
+Output: ['vous', 'suis', 'naives', 'suffisant', 'EOS']
+
+
+
+************* saved_model ********************  34
+Epoch 34
+0.0024387792218476534
+Input: he is lazy .
+
+Target: il est faineant .
+
+Output: ['vous', 'vous', 'etourdie', 'stricts', 'EOS']
+
+
+
+Epoch 35
+0.002493875101208687
+Input: i m grateful .
+
+Target: je suis reconnaissante .
+
+Output: ['tu', 'suis', 'inefficace', '.', 'EOS']
+
+
+
+************* saved_model ********************  36
+Epoch 36
+0.002395177260041237
+Input: you re unnecessary .
+
+Target: t es inutile .
+
+Output: ['vous', 'perturbee', '.', '.', 'EOS']
+
+
+
+Epoch 37
+0.002395731396973133
+Input: you re stalling .
+
+Target: tu temporises .
+
+Output: ['vous', 'es', 'talentueuses', 'EOS', 'EOS']
+
+
+
+************* saved_model ********************  38
+Epoch 38
+0.002237312262877822
+Input: you re lazy .
+
+Target: vous etes paresseuse .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  39
+Epoch 39
+0.00221809558570385
+Input: we re impatient .
+
+Target: nous sommes impatientes .
+
+Output: ['vous', 'sommes', 'autiste', '.', 'EOS']
+
+
+
+************* saved_model ********************  40
+Epoch 40
+0.00214190105907619
+Input: we re touched .
+
+Target: nous sommes touches .
+
+Output: ['vous', 'sommes', 'autiste', '.', 'EOS']
+
+
+
+Epoch 41
+0.002330840565264225
+Input: you are important .
+
+Target: vous etes importants .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  42
+Epoch 42
+0.0020160700660198927
+Input: you re satisfied .
+
+Target: vous etes contentes .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  43
+Epoch 43
+0.001847164356149733
+Input: i m reserved .
+
+Target: je suis reserve .
+
+Output: ['je', 'suis', 'decu', '.', 'EOS']
+
+
+
+Epoch 44
+0.0018854498630389571
+Input: you re weird .
+
+Target: vous etes bizarres .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 45
+0.0019717016257345676
+Input: i m thin .
+
+Target: je suis mince .
+
+Output: ['je', 'suis', 'differente', '.', 'EOS']
+
+
+
+Epoch 46
+0.0018692703451961279
+Input: i am going .
+
+Target: j y vais .
+
+Output: ['je', '!', 'triste', '.', 'EOS']
+
+
+
+************* saved_model ********************  47
+Epoch 47
+0.0017628814093768597
+Input: you re satisfied .
+
+Target: vous etes content .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 48
+0.0018507014028728008
+Input: i m amused .
+
+Target: je suis amusee .
+
+Output: ['je', 'suis', 'decu', '.', 'EOS']
+
+
+
+Epoch 49
+0.001855116686783731
+Input: you re rude .
+
+Target: vous etes grossieres .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 50
+0.0018793927738443017
+Input: you re talented .
+
+Target: vous etes talentueuse .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 51
+0.0018427884206175804
+Input: i m strong .
+
+Target: je suis forte .
+
+Output: ['je', 'suis', 'inefficace', '.', 'EOS']
+
+
+
+Epoch 52
+0.0018540744204074144
+Input: i m fine .
+
+Target: ca va .
+
+Output: ['je', 'diabetique', '.', 'EOS', '.']
+
+
+
+************* saved_model ********************  53
+Epoch 53
+0.0016588646685704589
+Input: you re shy .
+
+Target: vous etes timide .
+
+Output: ['tu', 'etes', 'plaisantent', '.', 'EOS']
+
+
+
+Epoch 54
+0.001672947546467185
+Input: i m addicted .
+
+Target: je suis drogue .
+
+Output: ['je', 'suis', 'inefficace', '.', 'EOS']
+
+
+
+Epoch 55
+0.00169566145632416
+Input: you re funny .
+
+Target: vous etes marrante .
+
+Output: ['tu', 'etes', 'plaisantent', '.', 'EOS']
+
+
+
+Epoch 56
+0.0019105651881545782
+Input: you re cheating .
+
+Target: tu triches .
+
+Output: ['tu', 'es', '.', 'EOS', '.']
+
+
+
+************* saved_model ********************  57
+Epoch 57
+0.0015145441284403205
+Input: we re sloshed .
+
+Target: nous sommes bourrees .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 58
+0.0017413118621334434
+Input: you re stuck .
+
+Target: vous etes plantees .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 59
+0.0016613791231065989
+Input: he s studying .
+
+Target: il etudie .
+
+Output: ['vous', 'est', 'adapte', 'EOS', '.']
+
+
+
+Epoch 60
+0.0016131206648424268
+Input: you re forgetful .
+
+Target: tu es distraite .
+
+Output: ['vous', 'es', 'mieux', '.', 'EOS']
+
+
+
+Epoch 61
+0.0015447597252205014
+Input: you re horrible .
+
+Target: vous etes hideuses .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 62
+0.0016069940757006407
+Input: you re bright .
+
+Target: tu es brillante .
+
+Output: ['vous', 'es', 'innocent', '.', 'EOS']
+
+
+
+************* saved_model ********************  63
+Epoch 63
+0.0015069296350702643
+Input: you re naive .
+
+Target: vous etes naifs .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 64
+0.0016428653616458178
+Input: you re immature .
+
+Target: tu es immature .
+
+Output: ['vous', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 65
+0.001624376862309873
+Input: they re canadians .
+
+Target: ils sont canadiens .
+
+Output: ['nous', 'sont', 'merveilleuse', '.', 'EOS']
+
+
+
+Epoch 66
+0.001563262427225709
+Input: you re obnoxious .
+
+Target: vous etes odieuses .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  67
+Epoch 67
+0.001382412388920784
+Input: i m ambitious .
+
+Target: je suis ambitieux .
+
+Output: ['je', 'suis', 'contagieuses', '.', 'EOS']
+
+
+
+Epoch 68
+0.001502486178651452
+Input: you re forgiven .
+
+Target: tu es pardonne .
+
+Output: ['vous', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 69
+0.0014975850936025381
+Input: they re red .
+
+Target: ils sont rouges .
+
+Output: ['vous', 'sont', 'merveilleuse', '.', 'EOS']
+
+
+
+Epoch 70
+0.001612648949958384
+Input: i m smashed .
+
+Target: je suis fracasse !
+
+Output: ['je', 'suis', 'differente', '.', '.']
+
+
+
+Epoch 71
+0.0015561424661427736
+Input: you re selfish .
+
+Target: vous etes egoiste .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 72
+0.0014582504518330097
+Input: you re invited .
+
+Target: vous etes invitee .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 73
+0.0017080913530662656
+Input: you re lost .
+
+Target: tu es perdu .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 74
+0.0015618446050211787
+Input: you re sick !
+
+Target: tu es malade !
+
+Output: ['tu', 'es', 'mieux', '.', '.']
+
+
+
+Epoch 75
+0.0014829193241894245
+Input: i m exhausted .
+
+Target: je suis epuisee .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 76
+0.001577263930812478
+Input: i am baffled .
+
+Target: je suis confus .
+
+Output: ['je', 'suis', 'differente', '.', 'EOS']
+
+
+
+Epoch 77
+0.0015466146869584918
+Input: i m concerned .
+
+Target: je suis preoccupe .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 78
+0.0014905092539265752
+Input: you re demented .
+
+Target: vous etes fous .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 79
+0.001548857893794775
+Input: i m patient .
+
+Target: je suis patiente .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 80
+0.001461415202356875
+Input: i m stubborn .
+
+Target: je suis tetu .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 81
+0.0015731335151940584
+Input: we re strong .
+
+Target: nous sommes forts .
+
+Output: ['nous', 'sommes', 'achetons', '.', 'EOS']
+
+
+
+Epoch 82
+0.0014177884440869093
+Input: you re disloyal .
+
+Target: vous etes deloyales .
+
+Output: ['tu', 'etes', 'plaisantent', '.', 'EOS']
+
+
+
+************* saved_model ********************  83
+Epoch 83
+0.0013576317578554153
+Input: you re fortunate .
+
+Target: tu es chanceuse .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 84
+0.0015100596938282251
+Input: you re excused .
+
+Target: tu es excusee .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 85
+0.0014828884741291404
+Input: they re happy .
+
+Target: elles sont heureuses .
+
+Output: ['nous', 'sont', 'merveilleuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  86
+Epoch 86
+0.0013491560239344835
+Input: you re bright .
+
+Target: tu es brillant .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 87
+0.0013645244762301445
+Input: i m hit !
+
+Target: je suis touchee !
+
+Output: ['je', 'suis', 'contagieuses', '.', '.']
+
+
+
+Epoch 88
+0.0013739214045926929
+Input: you re early .
+
+Target: tu es matinal .
+
+Output: ['tu', 'es', 'mieux', '.', 'EOS']
+
+
+
+Epoch 89
+0.001353345694951713
+Input: we re bored .
+
+Target: on s emmerde .
+
+Output: ['nous', 'adorable', '.', '.', 'EOS']
+
+
+
+Epoch 90
+0.0013808622024953365
+Input: you re cool .
+
+Target: t es decontracte .
+
+Output: ['tu', 'es', 'pessimistes', '.', 'EOS']
+
+
+
+************* saved_model ********************  91
+Epoch 91
+0.0013017228338867426
+Input: i m sorry .
+
+Target: excusez moi .
+
+Output: ['je', '.', '.', 'EOS', '.']
+
+
+
+************* saved_model ********************  92
+Epoch 92
+0.0012506123166531324
+Input: we re depressed .
+
+Target: nous sommes deprimes .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 93
+0.0013511235592886806
+Input: you re shivering .
+
+Target: vous tremblez .
+
+Output: ['vous', 'etes', '.', 'EOS', '.']
+
+
+
+Epoch 94
+0.0012748255394399166
+Input: i m exhausted .
+
+Target: je suis epuisee .
+
+Output: ['je', 'suis', 'contagieuses', '.', 'EOS']
+
+
+
+Epoch 95
+0.0013449027901515365
+Input: you are beautiful .
+
+Target: tu es belle .
+
+Output: ['vous', 'es', 'matinal', '.', 'EOS']
+
+
+
+Epoch 96
+0.001280017546378076
+Input: i m fussy .
+
+Target: je suis tatillon .
+
+Output: ['je', 'suis', 'contagieuses', '.', 'EOS']
+
+
+
+Epoch 97
+0.0013134870678186417
+Input: they re unpredictable .
+
+Target: ils sont imprevisibles .
+
+Output: ['ils', 'sont', 'merveilleuse', '.', 'EOS']
+
+
+
+Epoch 98
+0.0012509097578004003
+Input: you are fabulous .
+
+Target: tu es fabuleux .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 99
+0.00128898152615875
+Input: we re discreet .
+
+Target: nous sommes discrets .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 100
+0.0013338183052837849
+Input: you re obnoxious .
+
+Target: vous etes odieuse .
+
+Output: ['tu', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 101
+0.0013002407504245639
+Input: we re watching .
+
+Target: nous regardons .
+
+Output: ['nous', 'sommes', '.', 'EOS', '.']
+
+
+
+Epoch 102
+0.0013594579650089145
+Input: you re cruel .
+
+Target: tu es cruelle .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 103
+0.0014021272072568536
+Input: you re unfriendly .
+
+Target: tu es hostile .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 104
+0.0012725121341645718
+Input: i m sincere .
+
+Target: je suis sincere .
+
+Output: ['je', 'suis', 'pret', '.', 'EOS']
+
+
+
+************* saved_model ********************  105
+Epoch 105
+0.0012474333634600043
+Input: they re married .
+
+Target: ils sont maries .
+
+Output: ['nous', 'sont', 'fascinante', '.', 'EOS']
+
+
+
+************* saved_model ********************  106
+Epoch 106
+0.0012426768662407994
+Input: we re certain .
+
+Target: nous sommes certaines .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 107
+0.0013480335474014282
+Input: you re inconsiderate .
+
+Target: vous etes inconsideres .
+
+Output: ['vous', 'etes', 'chatouilleuse', '.', 'EOS']
+
+
+
+Epoch 108
+0.0013140678638592362
+Input: we re adventurous .
+
+Target: nous sommes aventureuses .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 109
+0.0014297011075541377
+Input: you re stuck .
+
+Target: t es plante .
+
+Output: ['tu', 'es', 'bourre', '.', 'EOS']
+
+
+
+Epoch 110
+0.0013146139681339264
+Input: they re lying .
+
+Target: elles mentent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 111
+0.0012602544156834483
+Input: i m tidy .
+
+Target: je suis ordonnee .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 112
+0.0012901982991024852
+Input: he is nasty .
+
+Target: il est mechant .
+
+Output: ['il', 'est', 'eveillees', '.', 'EOS']
+
+
+
+Epoch 113
+0.0012463931925594807
+Input: you re fashionable .
+
+Target: tu es branchee .
+
+Output: ['tu', 'es', 'bourre', '.', 'EOS']
+
+
+
+************* saved_model ********************  114
+Epoch 114
+0.001148961135186255
+Input: we re plastered .
+
+Target: nous sommes bourres .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+************* saved_model ********************  115
+Epoch 115
+0.0010347500210627913
+Input: we re going .
+
+Target: nous partons .
+
+Output: ['nous', 'sommes', '.', 'EOS', '.']
+
+
+
+************* saved_model ********************  116
+Epoch 116
+0.000994528760202229
+Input: you re unpredictable .
+
+Target: tu es imprevisible .
+
+Output: ['tu', 'es', 'intelligent', '.', 'EOS']
+
+
+
+Epoch 117
+0.0011146882316097617
+Input: you re fun .
+
+Target: t es marrant .
+
+Output: ['tu', 'es', '.', '.', 'EOS']
+
+
+
+Epoch 118
+0.0010513054439797997
+Input: we re claustrophobic .
+
+Target: nous sommes claustrophobes .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 119
+0.0010657190578058362
+Input: you re nervous .
+
+Target: tu es nerveux .
+
+Output: ['tu', 'es', 'lunatique', '.', 'EOS']
+
+
+
+Epoch 120
+0.0012024921597912908
+Input: i m sober .
+
+Target: je suis sobre .
+
+Output: ['je', 'suis', 'responsables', '.', 'EOS']
+
+
+
+Epoch 121
+0.0011867719003930688
+Input: they re dangerous .
+
+Target: elles sont dangereuses .
+
+Output: ['ils', 'sont', 'merveilleuse', '.', 'EOS']
+
+
+
+Epoch 122
+0.0010640519903972745
+Input: they are wrestlers .
+
+Target: ils sont lutteurs .
+
+Output: ['tu', 'sont', 'interesses', '.', 'EOS']
+
+
+
+Epoch 123
+0.0011168348137289286
+Input: you re adventurous .
+
+Target: vous etes aventureux .
+
+Output: ['tu', 'etes', 'imprudente', '.', 'EOS']
+
+
+
+Epoch 124
+0.0011001175735145807
+Input: you re lying !
+
+Target: tu mens !
+
+Output: ['tu', 'es', '.', '.', '.']
+
+
+
+Epoch 125
+0.0010223035933449864
+Input: he is reading .
+
+Target: il lit .
+
+Output: ['je', 'est', '.', 'EOS', '.']
+
+
+
+Epoch 126
+0.0010297675617039204
+Input: you re drunk .
+
+Target: vous etes saoule .
+
+Output: ['tu', 'etes', 'imprudente', '.', 'EOS']
+
+
+
+************* saved_model ********************  127
+Epoch 127
+0.0009403416770510375
+Input: you re single .
+
+Target: vous etes celibataire .
+
+Output: ['tu', 'etes', 'imprudente', '.', 'EOS']
+
+
+
+Epoch 128
+0.0010270951315760612
+Input: you re arrogant .
+
+Target: vous etes arrogante .
+
+Output: ['tu', 'etes', 'imprudente', '.', 'EOS']
+
+
+
+Epoch 129
+0.0011390551226213574
+Input: they re scared .
+
+Target: elles sont effrayees .
+
+Output: ['elles', 'sont', 'cinglee', '.', 'EOS']
+
+
+
+Epoch 130
+0.0010567890712991357
+Input: i m game .
+
+Target: j en suis .
+
+Output: ['je', 'ai', '.', '.', 'EOS']
+
+
+
+Epoch 131
+0.0010124397231265903
+Input: i m naked .
+
+Target: je suis nu .
+
+Output: ['je', 'suis', 'naifs', '.', 'EOS']
+
+
+
+Epoch 132
+0.001088850200176239
+Input: we re committed .
+
+Target: nous sommes engagees .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+Epoch 133
+0.0010692373616620898
+Input: i m finicky .
+
+Target: je suis meticuleux .
+
+Output: ['je', 'suis', 'extraverti', '.', 'EOS']
+
+
+
+Epoch 134
+0.0010761532466858625
+Input: you re charming .
+
+Target: vous etes charmante .
+
+Output: ['tu', 'etes', 'naifs', '.', 'EOS']
+
+
+
+Epoch 135
+0.0011208000360056758
+Input: you re charming .
+
+Target: tu es charmant .
+
+Output: ['tu', 'es', 'innocent', '.', 'EOS']
+
+
+
+Epoch 136
+0.0011477094376459718
+Input: you re mistaken .
+
+Target: tu te trompes .
+
+Output: ['tu', 'es', '.', '.', 'EOS']
+
+
+
+Epoch 137
+0.0011561554856598377
+Input: they re ugly .
+
+Target: ils sont laids .
+
+Output: ['tu', 'sont', 'la', '.', 'EOS']
+
+
+
+Epoch 138
+0.0010253081563860178
+Input: i m wet .
+
+Target: je suis mouillee .
+
+Output: ['je', 'suis', 'extraverti', '.', 'EOS']
+
+
+
+Epoch 139
+0.0010861612390726805
+Input: i am dumbfounded .
+
+Target: je suis sidere .
+
+Output: ['je', 'suis', 'humain', '.', 'EOS']
+
+
+
+Epoch 140
+0.0011195529950782657
+Input: you re wicked .
+
+Target: vous etes mauvais .
+
+Output: ['tu', 'etes', 'objectif', '.', 'EOS']
+
+
+
+Epoch 141
+0.0010378501610830426
+Input: i m thorough .
+
+Target: je suis minutieux .
+
+Output: ['je', 'suis', 'impulsif', '.', 'EOS']
+
+
+
+Epoch 142
+0.0010877660242840648
+Input: they re surprised .
+
+Target: elles sont surprises .
+
+Output: ['ils', 'sont', 'amies', '.', 'EOS']
+
+
+
+Epoch 143
+0.0010194346541538835
+Input: we re enemies .
+
+Target: nous sommes ennemies .
+
+Output: ['nous', 'sommes', 'fautifs', '.', 'EOS']
+
+
+
+************* saved_model ********************  144
+Epoch 144
+0.0008656410500407219
+Input: she s demented .
+
+Target: elle est folle .
+
+Output: ['tu', 'est', 'ici', '.', 'EOS']
+
+
+
+Epoch 145
+0.0009006723994389176
+Input: you re shy .
+
+Target: tu es timide .
+
+Output: ['tu', 'es', 'grossier', '.', 'EOS']
+
+
+
+************* saved_model ********************  146
+Epoch 146
+0.0008135746465995908
+Input: you are good .
+
+Target: tu es bonne .
+
+Output: ['tu', 'es', 'bonne', '.', 'EOS']
+
+
+
+************* saved_model ********************  147
+Epoch 147
+0.0007905832608230412
+Input: you are big .
+
+Target: vous etes grands .
+
+Output: ['tu', 'etes', 'deloyale', '.', 'EOS']
+
+
+
+Epoch 148
+0.0009437332628294826
+Input: you re successful .
+
+Target: tu as reussi .
+
+Output: ['tu', 'es', '.', '.', 'EOS']
+
+
+
+Epoch 149
+0.0008120193378999829
+Input: you re lost .
+
+Target: tu es perdu .
+
+Output: ['tu', 'es', 'rusee', '.', 'EOS']
+
+
+
+Epoch 150
+0.0008741544443182647
+Input: you re careful .
+
+Target: tu es prudente .
+
+Output: ['tu', 'es', 'rusee', '.', 'EOS']
+
+
+
+Epoch 151
+0.0007998463697731495
+Input: you re resilient .
+
+Target: vous etes endurantes .
+
+Output: ['tu', 'etes', 'nerveuse', '.', 'EOS']
+
+
+
+Epoch 152
+0.0007910733111202717
+Input: you re greedy .
+
+Target: vous etes avide .
+
+Output: ['tu', 'etes', 'directe', '.', 'EOS']
+
+
+
+************* saved_model ********************  153
+Epoch 153
+0.0007057306938804686
+Input: they are approaching .
+
+Target: ils approchent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 154
+0.0008184599573723972
+Input: they re trapped .
+
+Target: elles sont coincees .
+
+Output: ['ils', 'sont', 'similaires', '.', 'EOS']
+
+
+
+Epoch 155
+0.0008539577829651535
+Input: we are students .
+
+Target: nous sommes etudiants .
+
+Output: ['nous', 'sommes', 'vilaine', '.', 'EOS']
+
+
+
+Epoch 156
+0.0007423522183671594
+Input: they re laughing .
+
+Target: elles rient .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 157
+0.0008329030242748559
+Input: he is english .
+
+Target: il est anglais .
+
+Output: ['il', 'est', 'impitoyable', '.', 'EOS']
+
+
+
+Epoch 158
+0.0008537950925529003
+Input: she is merciful .
+
+Target: elle est misericordieuse .
+
+Output: ['tu', 'est', 'mauvais', '.', 'EOS']
+
+
+
+Epoch 159
+0.0008211935055442154
+Input: you re overworked .
+
+Target: vous etes surmenes .
+
+Output: ['tu', 'etes', 'naifs', '.', 'EOS']
+
+
+
+Epoch 160
+0.000861282751429826
+Input: i m broke .
+
+Target: je suis fauche .
+
+Output: ['je', 'suis', 'vous', '.', 'EOS']
+
+
+
+Epoch 161
+0.0008932132041081786
+Input: they re done .
+
+Target: elles ont termine .
+
+Output: ['ils', 'sont', '.', '.', 'EOS']
+
+
+
+Epoch 162
+0.0008509473409503698
+Input: you re charming .
+
+Target: vous etes charmantes .
+
+Output: ['tu', 'etes', 'naifs', '.', 'EOS']
+
+
+
+Epoch 163
+0.0009845324093475938
+Input: they re quiet .
+
+Target: elles sont calmes .
+
+Output: ['ils', 'sont', 'menottees', '.', 'EOS']
+
+
+
+Epoch 164
+0.0009085145429708064
+Input: you re funny .
+
+Target: vous etes marrantes .
+
+Output: ['tu', 'etes', 'naifs', '.', 'EOS']
+
+
+
+Epoch 165
+0.0008298677857965231
+Input: you are wavering .
+
+Target: tu hesites .
+
+Output: ['tu', 'es', '.', 'EOS', '.']
+
+
+
+Epoch 166
+0.0008142903679981828
+Input: i m loyal .
+
+Target: je suis loyal .
+
+Output: ['je', 'suis', 'innocents', '.', 'EOS']
+
+
+
+Epoch 167
+0.0009602288482710719
+Input: i m relaxed .
+
+Target: je suis detendu .
+
+Output: ['je', 'suis', 'ensemble', '.', 'EOS']
+
+
+
+Epoch 168
+0.0008021117537282407
+Input: you re surrounded .
+
+Target: tu es cernee .
+
+Output: ['vous', 'es', 'impartial', '.', 'EOS']
+
+
+
+Epoch 169
+0.0008341388893313706
+Input: we re here .
+
+Target: nous sommes la .
+
+Output: ['nous', 'sommes', 'vilaine', '.', 'EOS']
+
+
+
+Epoch 170
+0.000810139172244817
+Input: i m naked .
+
+Target: je suis nu .
+
+Output: ['je', 'suis', 'fiable', '.', 'EOS']
+
+
+
+Epoch 171
+0.0008506936719641089
+Input: they re awake .
+
+Target: elles sont eveillees .
+
+Output: ['ils', 'sont', 'serieux', '.', 'EOS']
+
+
+
+Epoch 172
+0.0008929833420552313
+Input: i m embarrassed .
+
+Target: je suis gene .
+
+Output: ['je', 'suis', 'vous', '.', 'EOS']
+
+
+
+************* saved_model ********************  173
+Epoch 173
+0.0006118688615970314
+Input: you re immature .
+
+Target: tu es immature .
+
+Output: ['tu', 'es', 'vilain', '.', 'EOS']
+
+
+
+Epoch 174
+0.0006247151759453118
+Input: you re rude .
+
+Target: tu es grossiere .
+
+Output: ['tu', 'es', 'lunatique', '.', 'EOS']
+
+
+
+Epoch 175
+0.0006134582217782736
+Input: you re psyched .
+
+Target: t es remonte .
+
+Output: ['tu', 'es', '.', '.', 'EOS']
+
+
+
+Epoch 176
+0.0006533409468829632
+Input: i m resilient .
+
+Target: je suis endurante .
+
+Output: ['je', 'suis', 'fatigue', '.', 'EOS']
+
+
+
+Epoch 177
+0.0006182488868944347
+Input: he s hungarian .
+
+Target: il est hongrois .
+
+Output: ['il', 'est', 'intelligent', '.', 'EOS']
+
+
+
+************* saved_model ********************  178
+Epoch 178
+0.0005760958301834762
+Input: he is photogenic .
+
+Target: il est photogenique .
+
+Output: ['il', 'est', 'impitoyable', '.', 'EOS']
+
+
+
+Epoch 179
+0.0006476055714301765
+Input: you re young .
+
+Target: vous etes jeune .
+
+Output: ['tu', 'etes', 'arrive', '.', 'EOS']
+
+
+
+************* saved_model ********************  180
+Epoch 180
+0.0005734085571020842
+Input: we re obedient .
+
+Target: nous sommes obeissants .
+
+Output: ['nous', 'sommes', 'ponctuelles', '.', 'EOS']
+
+
+
+************* saved_model ********************  181
+Epoch 181
+0.0005416848580352962
+Input: they re scared .
+
+Target: ils sont effrayes .
+
+Output: ['ils', 'sont', 'onereux', '.', 'EOS']
+
+
+
+Epoch 182
+0.0007291081128641963
+Input: she is prudish .
+
+Target: elle est prude .
+
+Output: ['elle', 'est', 'japonaise', '.', 'EOS']
+
+
+
+Epoch 183
+0.0005984408780932426
+Input: she is obstinate .
+
+Target: elle est obstinee .
+
+Output: ['elle', 'est', 'naif', '.', 'EOS']
+
+
+
+Epoch 184
+0.0006071945535950363
+Input: i m careful .
+
+Target: je suis prudent .
+
+Output: ['je', 'suis', 'calme', '.', 'EOS']
+
+
+
+Epoch 185
+0.0006477954448200762
+Input: you re fired .
+
+Target: tu es licencie .
+
+Output: ['tu', 'es', 'bonne', '.', 'EOS']
+
+
+
+Epoch 186
+0.0006118988967500627
+Input: you re invited .
+
+Target: vous etes invites .
+
+Output: ['tu', 'etes', 'deloyale', '.', 'EOS']
+
+
+
+Epoch 187
+0.0006658507045358419
+Input: you re nervous .
+
+Target: tu es nerveuse .
+
+Output: ['tu', 'es', 'dingue', '.', 'EOS']
+
+
+
+Epoch 188
+0.0006165832164697349
+Input: they re cousins .
+
+Target: ils sont cousins .
+
+Output: ['tu', 'sont', 'fascinante', '.', 'EOS']
+
+
+
+Epoch 189
+0.0006019495194777846
+Input: i m ugly .
+
+Target: je suis laide .
+
+Output: ['je', 'suis', 'fiancee', '.', 'EOS']
+
+
+
+Epoch 190
+0.0005500506376847625
+Input: you re callous .
+
+Target: vous etes insensible .
+
+Output: ['tu', 'etes', 'rusees', '.', 'EOS']
+
+
+
+Epoch 191
+0.0005468568997457623
+Input: they re escaping .
+
+Target: elles s enfuient .
+
+Output: ['ils', 'sont', 'enfuient', '.', 'EOS']
+
+
+
+Epoch 192
+0.0006082442123442888
+Input: they re fat .
+
+Target: ils sont gros .
+
+Output: ['ils', 'sont', 'similaires', '.', 'EOS']
+
+
+
+Epoch 193
+0.0006339749088510871
+Input: you re obnoxious .
+
+Target: vous etes odieuse .
+
+Output: ['tu', 'etes', 'odieux', '.', 'EOS']
+
+
+
+Epoch 194
+0.0006854581879451871
+Input: they re tired .
+
+Target: elles sont fatiguees .
+
+Output: ['ils', 'sont', 'endormies', '.', 'EOS']
+
+
+
+Epoch 195
+0.0006220793002285063
+Input: we re trapped .
+
+Target: nous sommes pieges .
+
+Output: ['nous', 'sommes', 'piegees', '.', 'EOS']
+
+
+
+Epoch 196
+0.0006279106019064784
+Input: they re mine .
+
+Target: ils sont miens .
+
+Output: ['ils', 'sont', 'similaires', '.', 'EOS']
+
+
+
+Epoch 197
+0.0006716884672641754
+Input: i m ready !
+
+Target: je suis prete !
+
+Output: ['je', 'suis', 'pret', '.', '.']
+
+
+
+Epoch 198
+0.0006511712563224137
+Input: i m tidy .
+
+Target: je suis ordonne .
+
+Output: ['je', 'suis', 'confuse', '.', 'EOS']
+
+
+
+Epoch 199
+0.0005764109082520008
+Input: we re ashamed .
+
+Target: nous avons honte .
+
+Output: ['nous', 'sommes', '.', '.', 'EOS']
+
+
+
+Epoch 200
+0.0006960474420338869
+Input: you re greedy .
+
+Target: tu es avide .
+
+Output: ['tu', 'es', 'injuste', '.', 'EOS']
+
+
+
+Epoch 201
+0.0006160832708701491
+Input: they re wrong .
+
+Target: ils se trompent .
+
+Output: ['ils', 'sont', 'sont', '.', 'EOS']
+
+
+
+************* saved_model ********************  202
+Epoch 202
+0.0003648385463748127
+Input: we re studying .
+
+Target: on etudie .
+
+Output: ['nous', 'etudie', '.', 'EOS', '.']
+
+
+
+Epoch 203
+0.0004124846891500056
+Input: you re arrogant .
+
+Target: tu es arrogant .
+
+Output: ['tu', 'es', 'arrogante', '.', 'EOS']
+
+
+
+Epoch 204
+0.00047346894280053675
+Input: you re disloyal .
+
+Target: vous etes deloyal .
+
+Output: ['tu', 'etes', 'deloyales', '.', 'EOS']
+
+
+
+Epoch 205
+0.00042829837184399366
+Input: we re doctors .
+
+Target: nous sommes medecins .
+
+Output: ['nous', 'sommes', 'medecins', '.', 'EOS']
+
+
+
+Epoch 206
+0.0003835317911580205
+Input: we re lost .
+
+Target: nous sommes perdues .
+
+Output: ['nous', 'sommes', 'sensibles', '.', 'EOS']
+
+
+
+Epoch 207
+0.00045233647688291967
+Input: you re stubborn .
+
+Target: tu es entete .
+
+Output: ['tu', 'es', 'tetus', '.', 'EOS']
+
+
+
+Epoch 208
+0.00038485496770590544
+Input: you re photogenic .
+
+Target: tu es photogenique .
+
+Output: ['tu', 'es', 'photogenique', '.', 'EOS']
+
+
+
+Epoch 209
+0.00037910265382379293
+Input: you re important .
+
+Target: vous etes importantes .
+
+Output: ['tu', 'etes', 'important', '.', 'EOS']
+
+
+
+************* saved_model ********************  210
+Epoch 210
+0.00034828484058380127
+Input: i am baffled .
+
+Target: je suis confus .
+
+Output: ['je', 'suis', 'confus', '.', 'EOS']
+
+
+
+Epoch 211
+0.00039056112291291356
+Input: you are beautiful .
+
+Target: vous etes belle .
+
+Output: ['tu', 'etes', 'nerveuse', '.', 'EOS']
+
+
+
+Epoch 212
+0.000380488985683769
+Input: i m crazy .
+
+Target: je suis fou .
+
+Output: ['je', 'suis', 'extraverti', '.', 'EOS']
+
+
+
+Epoch 213
+0.00039279734482988715
+Input: you are overworked .
+
+Target: tu es surmene .
+
+Output: ['tu', 'es', 'surmene', '.', 'EOS']
+
+
+
+Epoch 214
+0.0003739295352715999
+Input: you re careless .
+
+Target: tu es negligent .
+
+Output: ['tu', 'es', 'negligente', '.', 'EOS']
+
+
+
+Epoch 215
+0.0004113722243346274
+Input: he is awesome .
+
+Target: il est genial .
+
+Output: ['il', 'est', 'embetant', '.', 'EOS']
+
+
+
+Epoch 216
+0.0003485788474790752
+Input: you re polite .
+
+Target: vous etes poli .
+
+Output: ['tu', 'etes', 'poli', '.', 'EOS']
+
+
+
+Epoch 217
+0.00038606804446317255
+Input: you re jealous .
+
+Target: tu es jalouse .
+
+Output: ['tu', 'es', 'jalouse', '.', 'EOS']
+
+
+
+Epoch 218
+0.00035045534605160356
+Input: you re free .
+
+Target: tu es libre .
+
+Output: ['tu', 'es', 'libre', '.', 'EOS']
+
+
+
+Epoch 219
+0.00036069631460122764
+Input: you re nervous .
+
+Target: tu es nerveux .
+
+Output: ['tu', 'es', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 220
+0.0003490665112622082
+Input: you re skinny .
+
+Target: vous etes maigrichonne .
+
+Output: ['tu', 'etes', 'maigrichon', '.', 'EOS']
+
+
+
+Epoch 221
+0.0004108396533410996
+Input: you re drunk .
+
+Target: tu es saoule .
+
+Output: ['tu', 'es', 'saoul', '.', 'EOS']
+
+
+
+************* saved_model ********************  222
+Epoch 222
+0.00034612833405844867
+Input: we re powerful .
+
+Target: nous sommes puissants .
+
+Output: ['nous', 'sommes', 'puissantes', '.', 'EOS']
+
+
+
+Epoch 223
+0.00040600294596515596
+Input: you re resilient .
+
+Target: vous etes endurant .
+
+Output: ['tu', 'etes', 'tenace', '.', 'EOS']
+
+
+
+************* saved_model ********************  224
+Epoch 224
+0.00033333536703139544
+Input: you re nervous .
+
+Target: vous etes nerveuse .
+
+Output: ['tu', 'etes', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 225
+0.00036597190774045885
+Input: they re quiet .
+
+Target: ils sont silencieux .
+
+Output: ['ils', 'sont', 'fascinante', '.', 'EOS']
+
+
+
+Epoch 226
+0.00033404986606910825
+Input: we re adventurous .
+
+Target: nous sommes aventureuses .
+
+Output: ['nous', 'sommes', 'aventureux', '.', 'EOS']
+
+
+
+Epoch 227
+0.0005581578589044511
+Input: you re drunk .
+
+Target: vous etes saoul .
+
+Output: ['tu', 'etes', 'saoules', '.', 'EOS']
+
+
+
+Epoch 228
+0.00047178741078823805
+Input: you re stuck .
+
+Target: vous etes plante .
+
+Output: ['tu', 'etes', 'plantee', '.', 'EOS']
+
+
+
+Epoch 229
+0.00042264917283318937
+Input: i m lazy .
+
+Target: je suis faineante .
+
+Output: ['je', 'suis', 'paresseux', '.', 'EOS']
+
+
+
+Epoch 230
+0.0004370913375169039
+Input: i m spontaneous .
+
+Target: je suis spontane .
+
+Output: ['je', 'suis', 'pensionnee', '.', 'EOS']
+
+
+
+************* saved_model ********************  231
+Epoch 231
+0.00024549232330173254
+Input: we are here .
+
+Target: nous y sommes .
+
+Output: ['nous', 'sommes', 'sommes', '.', 'EOS']
+
+
+
+Epoch 232
+0.00025401986204087734
+Input: we re tired .
+
+Target: nous sommes fatiguees .
+
+Output: ['nous', 'sommes', 'fatigue', '.', 'EOS']
+
+
+
+************* saved_model ********************  233
+Epoch 233
+0.0002220937458332628
+Input: you re adventurous .
+
+Target: vous etes aventureuses .
+
+Output: ['tu', 'etes', 'aventureux', '.', 'EOS']
+
+
+
+Epoch 234
+0.0002226414071628824
+Input: we re involved .
+
+Target: nous sommes impliques .
+
+Output: ['nous', 'sommes', 'impliquees', '.', 'EOS']
+
+
+
+************* saved_model ********************  235
+Epoch 235
+0.0001898791961139068
+Input: i m stubborn .
+
+Target: je suis obstinee .
+
+Output: ['je', 'suis', 'obstinee', '.', 'EOS']
+
+
+
+Epoch 236
+0.0003188953851349652
+Input: we re nervous .
+
+Target: nous sommes nerveuses .
+
+Output: ['nous', 'sommes', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 237
+0.00021638972975779325
+Input: you re grumpy .
+
+Target: tu es grognon .
+
+Output: ['tu', 'es', 'bougonne', '.', 'EOS']
+
+
+
+Epoch 238
+0.0002594533725641668
+Input: you re positive .
+
+Target: vous etes positif .
+
+Output: ['tu', 'etes', 'positif', '.', 'EOS']
+
+
+
+Epoch 239
+0.00028533520526252687
+Input: he is outgoing .
+
+Target: il est sociable .
+
+Output: ['il', 'est', 'sociable', '.', 'EOS']
+
+
+
+Epoch 240
+0.0002573483216110617
+Input: i m beautiful .
+
+Target: je suis belle .
+
+Output: ['je', 'suis', 'beau', '.', 'EOS']
+
+
+
+Epoch 241
+0.00021081880549900234
+Input: i m impatient .
+
+Target: je suis impatiente .
+
+Output: ['je', 'suis', 'impatient', '.', 'EOS']
+
+
+
+Epoch 242
+0.00019673758652061224
+Input: you re weak .
+
+Target: tu es faible .
+
+Output: ['tu', 'es', 'faibles', '.', 'EOS']
+
+
+
+Epoch 243
+0.0002066863962681964
+Input: you re funny .
+
+Target: vous etes marrantes .
+
+Output: ['tu', 'etes', 'marrant', '.', 'EOS']
+
+
+
+Epoch 244
+0.0002002784312935546
+Input: we are students .
+
+Target: nous sommes etudiants .
+
+Output: ['nous', 'sommes', 'etudiants', '.', 'EOS']
+
+
+
+Epoch 245
+0.00022228941088542342
+Input: you re lazy .
+
+Target: tu es paresseux .
+
+Output: ['vous', 'es', 'paresseux', '.', 'EOS']
+
+
+
+Epoch 246
+0.00022257977980189025
+Input: you re loaded .
+
+Target: t es bourre .
+
+Output: ['tu', 'es', 'bourree', '.', 'EOS']
+
+
+
+Epoch 247
+0.00020691222744062543
+Input: they re defenseless .
+
+Target: ils sont impuissants .
+
+Output: ['ils', 'sont', 'impuissants', '.', 'EOS']
+
+
+
+************* saved_model ********************  248
+Epoch 248
+0.00016860052710399032
+Input: i m attentive .
+
+Target: je suis attentif .
+
+Output: ['je', 'suis', 'attentive', '.', 'EOS']
+
+
+
+Epoch 249
+0.00019047324894927442
+Input: they re jittery .
+
+Target: ils sont nerveux .
+
+Output: ['ils', 'sont', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 250
+0.00022467940289061517
+Input: you re productive .
+
+Target: tu es productif .
+
+Output: ['tu', 'es', 'productive', '.', 'EOS']
+
+
+
+Epoch 251
+0.0001914704916998744
+Input: they re special .
+
+Target: elles sont particulieres .
+
+Output: ['ils', 'sont', 'speciaux', '.', 'EOS']
+
+
+
+Epoch 252
+0.0002295405138283968
+Input: we re different .
+
+Target: nous sommes differents .
+
+Output: ['nous', 'sommes', 'differentes', '.', 'EOS']
+
+
+
+Epoch 253
+0.00017867336282506585
+Input: i m hopeless .
+
+Target: je suis desespere .
+
+Output: ['je', 'suis', 'incorrigible', '.', 'EOS']
+
+
+
+Epoch 254
+0.00022428520605899394
+Input: i m punctual .
+
+Target: je suis ponctuelle .
+
+Output: ['je', 'suis', 'ponctuel', '.', 'EOS']
+
+
+
+Epoch 255
+0.00021909033239353448
+Input: i m alive .
+
+Target: je suis vivant .
+
+Output: ['je', 'suis', 'vivante', '.', 'EOS']
+
+
+
+Epoch 256
+0.00027771867462433875
+Input: you are beautiful .
+
+Target: tu es beau .
+
+Output: ['tu', 'es', 'belle', '.', 'EOS']
+
+
+
+Epoch 257
+0.00033538450952619314
+Input: they re dead .
+
+Target: ils sont decedes .
+
+Output: ['ils', 'sont', 'decedees', '.', 'EOS']
+
+
+
+Epoch 258
+0.0002905417059082538
+Input: they re similar .
+
+Target: elles sont similaires .
+
+Output: ['ils', 'sont', 'semblables', '.', 'EOS']
+
+
+
+Epoch 259
+0.00022635716595686972
+Input: i m outraged .
+
+Target: je suis indigne .
+
+Output: ['je', 'suis', 'indignee', '.', 'EOS']
+
+
+
+************* saved_model ********************  260
+Epoch 260
+0.00013340183068066835
+Input: you re talented .
+
+Target: vous etes talentueux .
+
+Output: ['tu', 'etes', 'talentueuses', '.', 'EOS']
+
+
+
+Epoch 261
+0.00015582542982883751
+Input: i m cool .
+
+Target: je suis detendue .
+
+Output: ['je', 'suis', 'detendu', '.', 'EOS']
+
+
+
+Epoch 262
+0.00016228652384597808
+Input: you re temperamental .
+
+Target: vous etes lunatiques .
+
+Output: ['tu', 'etes', 'fantasque', '.', 'EOS']
+
+
+
+Epoch 263
+0.00013461489288602024
+Input: you re cool .
+
+Target: t es sympa .
+
+Output: ['tu', 'es', 'sympa', '.', 'EOS']
+
+
+
+Epoch 264
+0.00014926814765203744
+Input: i m drunk .
+
+Target: je suis saoul .
+
+Output: ['je', 'suis', 'saoul', '.', 'EOS']
+
+
+
+Epoch 265
+0.00013715226668864489
+Input: i m sick .
+
+Target: je suis malade .
+
+Output: ['je', 'suis', 'malade', '.', 'EOS']
+
+
+
+Epoch 266
+0.0001851231645559892
+Input: they re kidding .
+
+Target: ils rigolent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+************* saved_model ********************  267
+Epoch 267
+0.00012004699237877503
+Input: you re safe .
+
+Target: vous etes sauf .
+
+Output: ['tu', 'etes', 'sauves', '.', 'EOS']
+
+
+
+Epoch 268
+0.00012229722051415592
+Input: we re touched .
+
+Target: nous sommes touchees .
+
+Output: ['nous', 'sommes', 'touchees', '.', 'EOS']
+
+
+
+Epoch 269
+0.00012130753748351708
+Input: you re right .
+
+Target: tu as raison .
+
+Output: ['tu', 'es', 'raison', '.', 'EOS']
+
+
+
+Epoch 270
+0.0001356590655632317
+Input: i m prepared .
+
+Target: je suis pret .
+
+Output: ['je', 'suis', 'preparee', '.', 'EOS']
+
+
+
+************* saved_model ********************  271
+Epoch 271
+0.00011848926806123927
+Input: they re free .
+
+Target: ils sont libres .
+
+Output: ['elles', 'sont', 'libres', '.', 'EOS']
+
+
+
+Epoch 272
+0.0001346402132185176
+Input: i m thrilled .
+
+Target: je suis ravie .
+
+Output: ['je', 'suis', 'ravi', '.', 'EOS']
+
+
+
+Epoch 273
+0.0002108381740981713
+Input: i m famous .
+
+Target: je suis connu .
+
+Output: ['je', 'suis', 'connu', '.', 'EOS']
+
+
+
+************* saved_model ********************  274
+Epoch 274
+0.00011495861690491438
+Input: we re fine .
+
+Target: nous allons bien .
+
+Output: ['nous', 'sommes', '.', '.', 'EOS']
+
+
+
+************* saved_model ********************  275
+Epoch 275
+0.00010144535190192983
+Input: i m miserable .
+
+Target: je suis malheureux .
+
+Output: ['je', 'suis', 'malheureuse', '.', 'EOS']
+
+
+
+Epoch 276
+0.00013801443856209517
+Input: he s asleep .
+
+Target: il est endormi .
+
+Output: ['il', 'est', 'endormi', '.', 'EOS']
+
+
+
+Epoch 277
+0.00016153203614521772
+Input: we re prepared .
+
+Target: nous sommes pretes .
+
+Output: ['nous', 'sommes', 'pretes', '.', 'EOS']
+
+
+
+Epoch 278
+0.0001671137142693624
+Input: you re tough .
+
+Target: vous etes durs .
+
+Output: ['tu', 'etes', 'dure', '.', 'EOS']
+
+
+
+Epoch 279
+0.0001475974131608382
+Input: i m married .
+
+Target: je suis marie .
+
+Output: ['je', 'suis', 'mariee', '.', 'EOS']
+
+
+
+Epoch 280
+0.00011816714686574414
+Input: you re horrible .
+
+Target: vous etes hideux .
+
+Output: ['tu', 'etes', 'hideuses', '.', 'EOS']
+
+
+
+Epoch 281
+0.0002001635148189962
+Input: we re strong .
+
+Target: nous sommes fortes .
+
+Output: ['nous', 'sommes', 'fort', '.', 'EOS']
+
+
+
+Epoch 282
+0.0001363319461233914
+Input: you are naughty .
+
+Target: vous etes vilain .
+
+Output: ['tu', 'etes', 'vilaine', '.', 'EOS']
+
+
+
+Epoch 283
+0.0001119878506870009
+Input: we re normal .
+
+Target: nous sommes normaux .
+
+Output: ['nous', 'sommes', 'normal', '.', 'EOS']
+
+
+
+Epoch 284
+0.00014340641791932285
+Input: i am better .
+
+Target: je suis mieux .
+
+Output: ['je', 'suis', 'mieux', '.', 'EOS']
+
+
+
+Epoch 285
+0.00011304709187243134
+Input: you re demented .
+
+Target: tu es fou .
+
+Output: ['tu', 'es', 'fou', '.', 'EOS']
+
+
+
+Epoch 286
+0.00013930737623013556
+Input: you re upset .
+
+Target: tu es contrarie .
+
+Output: ['tu', 'es', 'contrariee', '.', 'EOS']
+
+
+
+Epoch 287
+0.00010869441030081362
+Input: you re crazy .
+
+Target: tu es fou .
+
+Output: ['tu', 'es', 'fou', '.', 'EOS']
+
+
+
+Epoch 288
+0.00011541076673893258
+Input: i m flattered .
+
+Target: je suis flatte .
+
+Output: ['je', 'suis', 'flattes', '.', 'EOS']
+
+
+
+************* saved_model ********************  289
+Epoch 289
+9.700250666355714e-05
+Input: you re satisfied .
+
+Target: vous etes content .
+
+Output: ['tu', 'etes', 'contents', '.', 'EOS']
+
+
+
+************* saved_model ********************  290
+Epoch 290
+8.850698941387236e-05
+Input: we re sloshed .
+
+Target: nous sommes bourres .
+
+Output: ['nous', 'sommes', 'bourrees', '.', 'EOS']
+
+
+
+************* saved_model ********************  291
+Epoch 291
+7.949848077259958e-05
+Input: he is unmarried .
+
+Target: il est celibataire .
+
+Output: ['il', 'est', 'celibataire', '.', 'EOS']
+
+
+
+************* saved_model ********************  292
+Epoch 292
+7.083632954163477e-05
+Input: you re crazy .
+
+Target: tu es cingle .
+
+Output: ['tu', 'es', 'fou', '.', 'EOS']
+
+
+
+Epoch 293
+0.00011046779400203377
+Input: we re certain .
+
+Target: nous sommes certains .
+
+Output: ['nous', 'sommes', 'certains', '.', 'EOS']
+
+
+
+************* saved_model ********************  294
+Epoch 294
+6.646791734965518e-05
+Input: you re fortunate .
+
+Target: vous etes chanceuses .
+
+Output: ['tu', 'etes', 'chanceuses', '.', 'EOS']
+
+
+
+Epoch 295
+6.996360752964392e-05
+Input: you re fortunate .
+
+Target: tu es chanceux .
+
+Output: ['tu', 'es', 'chanceux', '.', 'EOS']
+
+
+
+Epoch 296
+0.00013751232472714037
+Input: they re identical .
+
+Target: elles sont identiques .
+
+Output: ['ils', 'sont', 'identiques', '.', 'EOS']
+
+
+
+Epoch 297
+7.11734828655608e-05
+Input: we re ruined .
+
+Target: nous sommes ruines .
+
+Output: ['nous', 'sommes', 'ruinees', '.', 'EOS']
+
+
+
+************* saved_model ********************  298
+Epoch 298
+6.100469909142703e-05
+Input: he is lazy .
+
+Target: il est faineant .
+
+Output: ['il', 'est', 'faineant', '.', 'EOS']
+
+
+
+Epoch 299
+6.475096597569063e-05
+Input: you re fair .
+
+Target: vous etes justes .
+
+Output: ['tu', 'etes', 'juste', '.', 'EOS']
+
+
+
+Epoch 300
+7.713569357292727e-05
+Input: you re creative .
+
+Target: tu es creative .
+
+Output: ['tu', 'es', 'creative', '.', 'EOS']
+
+
+
+Epoch 301
+0.00010962411761283875
+Input: you re safe .
+
+Target: tu es sauve .
+
+Output: ['tu', 'es', 'sauf', '.', 'EOS']
+
+
+
+Epoch 302
+0.00010845805081771687
+Input: i m attentive .
+
+Target: je suis attentive .
+
+Output: ['je', 'suis', 'attentif', '.', 'EOS']
+
+
+
+Epoch 303
+7.740058936178684e-05
+Input: they re rich .
+
+Target: ils sont riches .
+
+Output: ['ils', 'sont', 'riches', '.', 'EOS']
+
+
+
+Epoch 304
+6.529159873025492e-05
+Input: we re powerful .
+
+Target: nous sommes puissantes .
+
+Output: ['nous', 'sommes', 'puissants', '.', 'EOS']
+
+
+
+Epoch 305
+8.818142669042572e-05
+Input: he s wet .
+
+Target: il est mouille .
+
+Output: ['il', 'est', 'mouille', '.', 'EOS']
+
+
+
+Epoch 306
+6.176254828460515e-05
+Input: i m exhausted .
+
+Target: je suis creve .
+
+Output: ['je', 'suis', 'vanne', '.', 'EOS']
+
+
+
+Epoch 307
+7.280229328898713e-05
+Input: you are rich .
+
+Target: vous etes riches .
+
+Output: ['tu', 'etes', 'riches', '.', 'EOS']
+
+
+
+Epoch 308
+0.00010972521704388782
+Input: you re drunk .
+
+Target: vous etes saoul .
+
+Output: ['tu', 'etes', 'saouls', '.', 'EOS']
+
+
+
+Epoch 309
+0.00011456207721494138
+Input: you re faithful .
+
+Target: vous etes fidele .
+
+Output: ['tu', 'etes', 'fidele', '.', 'EOS']
+
+
+
+Epoch 310
+9.882388985715806e-05
+Input: i m stubborn .
+
+Target: je suis obstine .
+
+Output: ['je', 'suis', 'tetue', '.', 'EOS']
+
+
+
+Epoch 311
+0.00010965811088681221
+Input: we re married .
+
+Target: nous sommes maries .
+
+Output: ['nous', 'sommes', 'maries', '.', 'EOS']
+
+
+
+Epoch 312
+0.00010541702795308083
+Input: you re crafty .
+
+Target: vous etes rusees .
+
+Output: ['tu', 'etes', 'astucieux', '.', 'EOS']
+
+
+
+Epoch 313
+7.422473572660238e-05
+Input: he is running .
+
+Target: il court .
+
+Output: ['il', 'est', '.', 'EOS', '.']
+
+
+
+Epoch 314
+0.0001491586008341983
+Input: we re mature .
+
+Target: nous sommes matures .
+
+Output: ['nous', 'sommes', 'matures', '.', 'EOS']
+
+
+
+Epoch 315
+7.03986079315655e-05
+Input: you re fair .
+
+Target: vous etes juste .
+
+Output: ['tu', 'etes', 'juste', '.', 'EOS']
+
+
+
+Epoch 316
+0.00010018135799327865
+Input: they re lying .
+
+Target: ils mentent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 317
+0.00010874644067371264
+Input: i m ugly .
+
+Target: je suis moche .
+
+Output: ['je', 'suis', 'laid', '.', 'EOS']
+
+
+
+************* saved_model ********************  318
+Epoch 318
+5.096332461107522e-05
+Input: you re immature .
+
+Target: vous etes immature .
+
+Output: ['tu', 'etes', 'immature', '.', 'EOS']
+
+
+
+************* saved_model ********************  319
+Epoch 319
+4.984920451533981e-05
+Input: i m touched .
+
+Target: je suis touche .
+
+Output: ['je', 'suis', 'touchee', '.', 'EOS']
+
+
+
+Epoch 320
+7.658427057322115e-05
+Input: you re fascinating .
+
+Target: vous etes fascinant .
+
+Output: ['tu', 'etes', 'fascinant', '.', 'EOS']
+
+
+
+Epoch 321
+5.384084943216294e-05
+Input: you re sneaky .
+
+Target: vous etes sournoise .
+
+Output: ['tu', 'etes', 'sournois', '.', 'EOS']
+
+
+
+Epoch 322
+5.673822670360096e-05
+Input: i m powerful .
+
+Target: je suis puissante .
+
+Output: ['je', 'suis', 'puissant', '.', 'EOS']
+
+
+
+Epoch 323
+5.018531737732701e-05
+Input: you re ridiculous .
+
+Target: vous etes ridicule .
+
+Output: ['tu', 'etes', 'ridicule', '.', 'EOS']
+
+
+
+************* saved_model ********************  324
+Epoch 324
+4.808208905160427e-05
+Input: we re standing .
+
+Target: nous sommes debout .
+
+Output: ['nous', 'sommes', 'debout', '.', 'EOS']
+
+
+
+Epoch 325
+9.044918260769919e-05
+Input: you re immoral .
+
+Target: vous etes immoral .
+
+Output: ['tu', 'etes', 'immoral', '.', 'EOS']
+
+
+
+Epoch 326
+5.414890620158985e-05
+Input: i m ugly .
+
+Target: je suis laide .
+
+Output: ['je', 'suis', 'moche', '.', 'EOS']
+
+
+
+Epoch 327
+7.521493535023183e-05
+Input: you re famous .
+
+Target: vous etes connus .
+
+Output: ['tu', 'etes', 'connu', '.', 'EOS']
+
+
+
+Epoch 328
+0.00010994559852406383
+Input: they re strong .
+
+Target: elles sont fortes .
+
+Output: ['ils', 'sont', 'forts', '.', 'EOS']
+
+
+
+Epoch 329
+5.626456913887523e-05
+Input: they re done .
+
+Target: ils ont termine .
+
+Output: ['ils', 'sont', 'termine', '.', 'EOS']
+
+
+
+Epoch 330
+4.911774885840714e-05
+Input: i m prepared .
+
+Target: je suis prepare .
+
+Output: ['je', 'suis', 'pret', '.', 'EOS']
+
+
+
+Epoch 331
+5.563111699302681e-05
+Input: we re closed .
+
+Target: nous sommes fermes .
+
+Output: ['nous', 'sommes', 'fermes', '.', 'EOS']
+
+
+
+Epoch 332
+0.00010130745795322582
+Input: you are big .
+
+Target: vous etes grandes .
+
+Output: ['tu', 'etes', 'grande', '.', 'EOS']
+
+
+
+Epoch 333
+5.49254436919e-05
+Input: we re quitting .
+
+Target: nous abandonnons .
+
+Output: ['nous', 'sommes', '.', 'EOS', 'EOS']
+
+
+
+Epoch 334
+6.220101204235107e-05
+Input: they re fighting .
+
+Target: ils se battent .
+
+Output: ['ils', 'sont', 'battent', '.', 'EOS']
+
+
+
+Epoch 335
+5.7664547057356685e-05
+Input: you re immoral .
+
+Target: tu es immoral .
+
+Output: ['tu', 'es', 'immoral', '.', 'EOS']
+
+
+
+Epoch 336
+7.041024946374819e-05
+Input: you are strong .
+
+Target: tu es forte .
+
+Output: ['tu', 'es', 'forte', '.', 'EOS']
+
+
+
+Epoch 337
+5.354937820811756e-05
+Input: i m brave .
+
+Target: je suis courageuse .
+
+Output: ['je', 'suis', 'courageux', '.', 'EOS']
+
+
+
+Epoch 338
+5.68599280086346e-05
+Input: i m spontaneous .
+
+Target: je suis spontanee .
+
+Output: ['je', 'suis', 'spontane', '.', 'EOS']
+
+
+
+Epoch 339
+6.307174044195563e-05
+Input: they re brave .
+
+Target: ils sont courageux .
+
+Output: ['ils', 'sont', 'courageux', '.', 'EOS']
+
+
+
+Epoch 340
+6.532504630740732e-05
+Input: you re psychic .
+
+Target: tu es voyant .
+
+Output: ['vous', 'es', 'voyante', '.', 'EOS']
+
+
+
+Epoch 341
+8.906905713956803e-05
+Input: you re particular .
+
+Target: tu es particulier .
+
+Output: ['tu', 'es', 'particulier', '.', 'EOS']
+
+
+
+Epoch 342
+6.23876549070701e-05
+Input: you re clever .
+
+Target: tu es maline .
+
+Output: ['tu', 'es', 'malin', '.', 'EOS']
+
+
+
+Epoch 343
+0.00011247490328969434
+Input: i m ill .
+
+Target: je suis malade .
+
+Output: ['je', 'suis', 'malade', '.', 'EOS']
+
+
+
+Epoch 344
+5.6366588978562504e-05
+Input: you are wrong .
+
+Target: vous avez tort .
+
+Output: ['tu', 'etes', '.', '.', 'EOS']
+
+
+
+Epoch 345
+0.00010756155825220048
+Input: we re involved .
+
+Target: nous sommes impliquees .
+
+Output: ['nous', 'sommes', 'impliques', '.', 'EOS']
+
+
+
+Epoch 346
+6.304981070570648e-05
+Input: he is incompetent .
+
+Target: il est incompetent .
+
+Output: ['il', 'est', 'incompetent', '.', 'EOS']
+
+
+
+************* saved_model ********************  347
+Epoch 347
+3.857671981677413e-05
+Input: i m uncomfortable .
+
+Target: je suis gene .
+
+Output: ['je', 'suis', 'gene', '.', 'EOS']
+
+
+
+************* saved_model ********************  348
+Epoch 348
+3.590316555346362e-05
+Input: i m careful .
+
+Target: je suis prudente .
+
+Output: ['je', 'suis', 'prudente', '.', 'EOS']
+
+
+
+Epoch 349
+3.5907589335693046e-05
+Input: i m satisfied .
+
+Target: je suis satisfait .
+
+Output: ['je', 'suis', 'content', '.', 'EOS']
+
+
+
+************* saved_model ********************  350
+Epoch 350
+3.249640576541424e-05
+Input: we re shy .
+
+Target: nous sommes timides .
+
+Output: ['nous', 'sommes', 'timides', '.', 'EOS']
+
+
+
+Epoch 351
+7.020847988314927e-05
+Input: you re rude .
+
+Target: vous etes grossiers .
+
+Output: ['tu', 'etes', 'grossiers', '.', 'EOS']
+
+
+
+Epoch 352
+6.839074194431305e-05
+Input: we re ashamed .
+
+Target: nous avons honte .
+
+Output: ['nous', 'sommes', 'honte', '.', 'EOS']
+
+
+
+Epoch 353
+6.702076643705368e-05
+Input: we re helpless .
+
+Target: nous sommes impuissantes .
+
+Output: ['nous', 'sommes', 'impuissants', '.', 'EOS']
+
+
+
+Epoch 354
+3.8174835935933515e-05
+Input: i m uncomfortable .
+
+Target: je suis gene .
+
+Output: ['je', 'suis', 'gene', '.', 'EOS']
+
+
+
+Epoch 355
+6.0447415307862684e-05
+Input: they re coming .
+
+Target: ils arrivent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 356
+4.761328818858601e-05
+Input: you re sleepy .
+
+Target: vous etes endormies .
+
+Output: ['tu', 'etes', 'endormies', '.', 'EOS']
+
+
+
+Epoch 357
+0.0001029710256261751
+Input: we re adaptable .
+
+Target: nous sommes flexibles .
+
+Output: ['nous', 'nous', 'flexibles', '.', 'EOS']
+
+
+
+Epoch 358
+4.1722280002431944e-05
+Input: you are wavering .
+
+Target: tu hesites .
+
+Output: ['tu', 'es', '.', 'EOS', '.']
+
+
+
+Epoch 359
+5.384736869018525e-05
+Input: you re reserved .
+
+Target: tu es reserve .
+
+Output: ['tu', 'es', 'reserve', '.', 'EOS']
+
+
+
+Epoch 360
+4.280601933714934e-05
+Input: we re separated .
+
+Target: nous sommes separes .
+
+Output: ['nous', 'sommes', 'separes', '.', 'EOS']
+
+
+
+Epoch 361
+4.046282992931083e-05
+Input: you are overworked .
+
+Target: tu es surmenee .
+
+Output: ['tu', 'es', 'surmene', '.', 'EOS']
+
+
+
+Epoch 362
+3.6249122786102816e-05
+Input: i m tired .
+
+Target: je suis fatigue !
+
+Output: ['je', 'suis', 'fatigue', '.', 'EOS']
+
+
+
+Epoch 363
+4.250050915288739e-05
+Input: you re extraordinary .
+
+Target: tu es extraordinaire .
+
+Output: ['tu', 'es', 'extraordinaire', '.', 'EOS']
+
+
+
+Epoch 364
+4.107236964046024e-05
+Input: i m grounded .
+
+Target: je suis cloue .
+
+Output: ['je', 'suis', 'cloue', '.', 'EOS']
+
+
+
+Epoch 365
+0.00010739620483946055
+Input: you re callous .
+
+Target: tu es insensible .
+
+Output: ['tu', 'es', 'insensible', '.', 'EOS']
+
+
+
+Epoch 366
+0.000106646548374556
+Input: they re trapped .
+
+Target: elles sont coincees .
+
+Output: ['ils', 'sont', 'piegees', '.', 'EOS']
+
+
+
+Epoch 367
+5.363634409150109e-05
+Input: you re clever .
+
+Target: vous etes malines .
+
+Output: ['tu', 'etes', 'maline', '.', 'EOS']
+
+
+
+Epoch 368
+4.512314262683503e-05
+Input: you re smart .
+
+Target: tu es intelligent .
+
+Output: ['tu', 'es', 'intelligent', '.', 'EOS']
+
+
+
+Epoch 369
+6.858743290649727e-05
+Input: you re amazing .
+
+Target: vous etes incroyable .
+
+Output: ['tu', 'etes', 'incroyables', '.', 'EOS']
+
+
+
+Epoch 370
+8.06426687631756e-05
+Input: you re mine .
+
+Target: je t ai .
+
+Output: ['tu', 'suis', 'es', '.', 'EOS']
+
+
+
+Epoch 371
+7.700601418036968e-05
+Input: you re restless .
+
+Target: tu es agite .
+
+Output: ['tu', 'es', 'agite', '.', 'EOS']
+
+
+
+Epoch 372
+6.174281588755548e-05
+Input: i m right .
+
+Target: j ai raison .
+
+Output: ['je', 'ai', 'raison', '.', 'EOS']
+
+
+
+Epoch 373
+5.416455678641796e-05
+Input: i m busy .
+
+Target: je suis occupe .
+
+Output: ['je', 'suis', 'occupee', '.', 'EOS']
+
+
+
+Epoch 374
+6.286129064392298e-05
+Input: you re incorrigible .
+
+Target: vous etes incorrigibles .
+
+Output: ['tu', 'etes', 'incorrigible', '.', 'EOS']
+
+
+
+Epoch 375
+6.473213579738513e-05
+Input: you re old .
+
+Target: tu es vieille .
+
+Output: ['tu', 'es', 'vieux', '.', 'EOS']
+
+
+
+Epoch 376
+4.8012847400968894e-05
+Input: you re disloyal .
+
+Target: tu es deloyal .
+
+Output: ['tu', 'es', 'deloyal', '.', 'EOS']
+
+
+
+Epoch 377
+4.077402991242707e-05
+Input: you re annoying .
+
+Target: tu es chiant .
+
+Output: ['tu', 'es', 'chiante', '.', 'EOS']
+
+
+
+Epoch 378
+0.0001330902159679681
+Input: we re hiding .
+
+Target: nous nous cachons .
+
+Output: ['nous', 'nous', 'nous', '.', 'EOS']
+
+
+
+Epoch 379
+4.501669536693953e-05
+Input: you re disloyal .
+
+Target: tu es deloyale .
+
+Output: ['tu', 'es', 'deloyal', '.', 'EOS']
+
+
+
+Epoch 380
+4.2396037315484136e-05
+Input: you re nervous .
+
+Target: vous etes nerveuses .
+
+Output: ['tu', 'etes', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 381
+8.337788312928751e-05
+Input: we re even .
+
+Target: nous sommes quittes .
+
+Output: ['nous', 'sommes', 'quittes', '.', 'EOS']
+
+
+
+Epoch 382
+4.6618406486231834e-05
+Input: you re innocent .
+
+Target: vous etes innocent .
+
+Output: ['tu', 'etes', 'innocentes', '.', 'EOS']
+
+
+
+Epoch 383
+3.8963404222158715e-05
+Input: i m cool .
+
+Target: je suis detendu .
+
+Output: ['je', 'suis', 'detendue', '.', 'EOS']
+
+
+
+Epoch 384
+4.6443554310826585e-05
+Input: you re disgusting !
+
+Target: t es degueulasse !
+
+Output: ['tu', 'es', 'degoutante', '.', 'EOS']
+
+
+
+Epoch 385
+8.554093074053526e-05
+Input: i m depressed .
+
+Target: je suis depressif .
+
+Output: ['je', 'suis', 'deprime', '.', 'EOS']
+
+
+
+Epoch 386
+7.682931754970923e-05
+Input: i m relaxed .
+
+Target: je suis detendu .
+
+Output: ['je', 'suis', 'detendue', '.', 'EOS']
+
+
+
+Epoch 387
+3.7552974390564486e-05
+Input: you re stubborn .
+
+Target: tu es entetee .
+
+Output: ['tu', 'es', 'entete', '.', 'EOS']
+
+
+
+Epoch 388
+4.455205998965539e-05
+Input: i m powerful .
+
+Target: je suis puissante .
+
+Output: ['je', 'suis', 'puissant', '.', 'EOS']
+
+
+
+Epoch 389
+3.467389251454733e-05
+Input: they are vegetarians .
+
+Target: ils sont vegetariens .
+
+Output: ['elles', 'sont', 'vegetariens', '.', 'EOS']
+
+
+
+Epoch 390
+3.502899198792875e-05
+Input: you re forgiven .
+
+Target: tu es pardonnee .
+
+Output: ['tu', 'es', 'pardonne', '.', 'EOS']
+
+
+
+Epoch 391
+3.290141103207134e-05
+Input: we re objective .
+
+Target: nous sommes objectifs .
+
+Output: ['nous', 'sommes', 'objectifs', '.', 'EOS']
+
+
+
+Epoch 392
+4.118615106563084e-05
+Input: i m game .
+
+Target: j en suis .
+
+Output: ['je', 'ai', 'suis', '.', 'EOS']
+
+
+
+Epoch 393
+3.375248707015999e-05
+Input: you re unemotional .
+
+Target: tu es impassible .
+
+Output: ['tu', 'es', 'impassible', '.', 'EOS']
+
+
+
+Epoch 394
+3.7583860830636695e-05
+Input: you re nuts !
+
+Target: t es cingle !
+
+Output: ['tu', 'es', 'givree', '.', 'EOS']
+
+
+
+Epoch 395
+3.319457755424082e-05
+Input: we re introverted .
+
+Target: nous sommes introvertis .
+
+Output: ['nous', 'sommes', 'introverti', '.', 'EOS']
+
+
+
+Epoch 396
+3.7536916352109984e-05
+Input: i m confident .
+
+Target: j ai confiance .
+
+Output: ['je', 'ai', 'confiance', '.', 'EOS']
+
+
+
+Epoch 397
+3.892837412422523e-05
+Input: you re creative .
+
+Target: tu es creatif .
+
+Output: ['tu', 'es', 'creative', '.', 'EOS']
+
+
+
+Epoch 398
+3.6141158489044756e-05
+Input: you re psychic .
+
+Target: tu es voyante .
+
+Output: ['tu', 'es', 'voyant', '.', 'EOS']
+
+
+
+************* saved_model ********************  399
+Epoch 399
+3.0947874620324e-05
+Input: i m stuffed .
+
+Target: je suis gavee .
+
+Output: ['je', 'suis', 'gavees', '.', 'EOS']
+
+
+
+Epoch 400
+6.89825028530322e-05
+Input: you re biased .
+
+Target: tu es partiale .
+
+Output: ['tu', 'es', 'partial', '.', 'EOS']
+
+
+
+Epoch 401
+3.361323615536094e-05
+Input: you re fortunate .
+
+Target: tu es chanceuse .
+
+Output: ['vous', 'es', 'chanceux', '.', 'EOS']
+
+
+
+Epoch 402
+3.208918860764243e-05
+Input: you re good .
+
+Target: vous etes bons .
+
+Output: ['tu', 'etes', 'bonnes', '.', 'EOS']
+
+
+
+Epoch 403
+3.3801989047788084e-05
+Input: they re trying .
+
+Target: elles essayent .
+
+Output: ['ils', 'sont', '.', 'EOS', 'EOS']
+
+
+
+Epoch 404
+0.00010909973934758455
+Input: you re precise .
+
+Target: tu es precis .
+
+Output: ['tu', 'es', 'precise', '.', 'EOS']
+
+
+
+************* saved_model ********************  405
+Epoch 405
+1.6077801774372347e-05
+Input: you re big .
+
+Target: vous etes grand .
+
+Output: ['tu', 'etes', 'grandes', '.', 'EOS']
+
+
+
+Epoch 406
+2.4220400518970564e-05
+Input: i m fighting .
+
+Target: je me bats .
+
+Output: ['je', 'suis', 'bats', '.', 'EOS']
+
+
+
+Epoch 407
+4.0786078898236156e-05
+Input: she is talking .
+
+Target: elle parle .
+
+Output: ['elle', 'est', '.', 'EOS', '.']
+
+
+
+Epoch 408
+2.3700184101471677e-05
+Input: we re tired .
+
+Target: nous sommes fatiguees .
+
+Output: ['nous', 'sommes', 'fatiguees', '.', 'EOS']
+
+
+
+Epoch 409
+7.34771674615331e-05
+Input: you re satisfied .
+
+Target: vous etes contente .
+
+Output: ['tu', 'etes', 'contentes', '.', 'EOS']
+
+
+
+Epoch 410
+2.4028029656619765e-05
+Input: you re excused .
+
+Target: vous etes excuse .
+
+Output: ['tu', 'etes', 'excusee', '.', 'EOS']
+
+
+
+Epoch 411
+2.545027200540062e-05
+Input: you re invited .
+
+Target: vous etes invite .
+
+Output: ['tu', 'etes', 'invites', '.', 'EOS']
+
+
+
+Epoch 412
+2.0791714632650837e-05
+Input: i m adventurous .
+
+Target: je suis aventureuse .
+
+Output: ['je', 'suis', 'aventureuse', '.', 'EOS']
+
+
+
+Epoch 413
+3.3064756280509755e-05
+Input: we re involved .
+
+Target: nous sommes impliquees .
+
+Output: ['nous', 'sommes', 'impliquees', '.', 'EOS']
+
+
+
+Epoch 414
+2.3287015210371464e-05
+Input: you re thin .
+
+Target: tu es mince .
+
+Output: ['tu', 'es', 'mince', '.', 'EOS']
+
+
+
+Epoch 415
+6.782588752685115e-05
+Input: i m falling .
+
+Target: je tombe .
+
+Output: ['je', 'suis', '.', 'EOS', 'EOS']
+
+
+
+Epoch 416
+4.670932685257867e-05
+Input: you are wavering .
+
+Target: vous hesitez .
+
+Output: ['tu', 'etes', '.', 'EOS', '.']
+
+
+
+Epoch 417
+2.3466418497264385e-05
+Input: you re extraordinary .
+
+Target: vous etes extraordinaire .
+
+Output: ['tu', 'etes', 'extraordinaire', '.', 'EOS']
+
+
+
+Epoch 418
+2.167199636460282e-05
+Input: i m farsighted .
+
+Target: je vois loin .
+
+Output: ['je', 'suis', 'loin', '.', 'EOS']
+
+
+
+Epoch 419
+2.219739690190181e-05
+Input: you re innocent .
+
+Target: vous etes innocent .
+
+Output: ['tu', 'etes', 'innocents', '.', 'EOS']
+
+
+
+Epoch 420
+2.272102028655354e-05
+Input: you re sloshed .
+
+Target: t es bourre .
+
+Output: ['tu', 'es', 'bourre', '.', 'EOS']
+
+
+
+Epoch 421
+0.00012420305574778467
+Input: i m impulsive .
+
+Target: je suis impulsif .
+
+Output: ['je', 'suis', 'impulsif', '.', 'EOS']
+
+
+
+Epoch 422
+2.6659130526240915e-05
+Input: i m shooting .
+
+Target: je tire .
+
+Output: ['je', 'suis', '.', 'EOS', 'EOS']
+
+
+
+Epoch 423
+3.1759467674419284e-05
+Input: i m unhappy .
+
+Target: je suis mecontent .
+
+Output: ['je', 'suis', 'mecontente', '.', 'EOS']
+
+
+
+Epoch 424
+2.7635918740998022e-05
+Input: you re extroverted .
+
+Target: vous etes extravertis .
+
+Output: ['tu', 'etes', 'extraverties', '.', 'EOS']
+
+
+
+Epoch 425
+2.5293509679613635e-05
+Input: we re committed .
+
+Target: nous sommes engagees .
+
+Output: ['nous', 'sommes', 'engages', '.', 'EOS']
+
+
+
+Epoch 426
+2.5822562747634947e-05
+Input: you re pessimistic .
+
+Target: vous etes pessimiste .
+
+Output: ['tu', 'etes', 'pessimiste', '.', 'EOS']
+
+
+
+Epoch 427
+6.233137537492439e-05
+Input: they re canadians .
+
+Target: ils sont canadiens .
+
+Output: ['ils', 'sont', 'canadiens', '.', 'EOS']
+
+
+
+Epoch 428
+2.207858779001981e-05
+Input: they re mistaken .
+
+Target: ils se trompent .
+
+Output: ['elles', 'sont', 'trompent', '.', 'EOS']
+
+
+
+Epoch 429
+6.393864168785512e-05
+Input: i m satisfied .
+
+Target: je suis satisfait .
+
+Output: ['je', 'suis', 'content', '.', 'EOS']
+
+
+
+Epoch 430
+2.6972331397701055e-05
+Input: i m free !
+
+Target: je suis libre !
+
+Output: ['je', 'suis', 'libre', '.', 'EOS']
+
+
+
+Epoch 431
+2.6768966563395225e-05
+Input: i m winning .
+
+Target: je l emporte .
+
+Output: ['je', 'suis', 'emporte', '.', 'EOS']
+
+
+
+Epoch 432
+2.462215161358472e-05
+Input: he is poor .
+
+Target: il est pauvre .
+
+Output: ['il', 'est', 'pauvre', '.', 'EOS']
+
+
+
+Epoch 433
+2.3809203412383795e-05
+Input: you re tired .
+
+Target: tu es fatiguee .
+
+Output: ['tu', 'es', 'fatigue', '.', 'EOS']
+
+
+
+************* saved_model ********************  434
+Epoch 434
+1.3953532288724091e-05
+Input: you re kidding !
+
+Target: tu plaisantes !
+
+Output: ['vous', 'es', '.', 'EOS', '.']
+
+
+
+Epoch 435
+1.5972222172422335e-05
+Input: you re immature .
+
+Target: tu es immature .
+
+Output: ['tu', 'es', 'immature', '.', 'EOS']
+
+
+
+************* saved_model ********************  436
+Epoch 436
+1.3222688721725717e-05
+Input: you re hideous .
+
+Target: vous etes hideuse .
+
+Output: ['tu', 'etes', 'hideux', '.', 'EOS']
+
+
+
+Epoch 437
+9.49817112996243e-05
+Input: i m finicky .
+
+Target: je suis meticuleux .
+
+Output: ['je', 'suis', 'meticuleuse', '.', 'EOS']
+
+
+
+Epoch 438
+3.3392578188795596e-05
+Input: you re old .
+
+Target: vous etes vieille .
+
+Output: ['tu', 'tu', 'vieux', '.', 'EOS']
+
+
+
+Epoch 439
+1.5934621842461638e-05
+Input: you re hideous .
+
+Target: tu es hideuse .
+
+Output: ['tu', 'es', 'hideuse', '.', 'EOS']
+
+
+
+Epoch 440
+1.610653089301195e-05
+Input: you re objective .
+
+Target: tu es objectif .
+
+Output: ['tu', 'es', 'objectif', '.', 'EOS']
+
+
+
+Epoch 441
+1.6720263374736533e-05
+Input: you re unethical .
+
+Target: tu es immorale .
+
+Output: ['tu', 'es', 'immorale', '.', 'EOS']
+
+
+
+Epoch 442
+1.7078415112337098e-05
+Input: i m shocked .
+
+Target: je suis choquee .
+
+Output: ['je', 'suis', 'choquee', '.', 'EOS']
+
+
+
+Epoch 443
+1.817278280213941e-05
+Input: they re disposable .
+
+Target: ils sont jetables .
+
+Output: ['ils', 'sont', 'jetables', '.', 'EOS']
+
+
+
+Epoch 444
+1.3936948562331963e-05
+Input: you re grumpy .
+
+Target: tu es bougonne .
+
+Output: ['tu', 'es', 'bougon', '.', 'EOS']
+
+
+
+Epoch 445
+4.780246672453359e-05
+Input: they re surprised .
+
+Target: elles sont etonnees .
+
+Output: ['ils', 'sont', 'surprises', '.', 'EOS']
+
+
+
+Epoch 446
+1.844507823989261e-05
+Input: you re sleepy .
+
+Target: vous etes endormis .
+
+Output: ['tu', 'etes', 'endormie', '.', 'EOS']
+
+
+
+Epoch 447
+2.2387801436707377e-05
+Input: we re interested .
+
+Target: nous sommes interesses .
+
+Output: ['nous', 'sommes', 'interesses', '.', 'EOS']
+
+
+
+Epoch 448
+1.846377745096106e-05
+Input: you re nuts !
+
+Target: vous etes givres !
+
+Output: ['tu', 'etes', 'givrees', '.', 'EOS']
+
+
+
+Epoch 449
+1.5312713003368117e-05
+Input: you re bright .
+
+Target: vous etes brillante .
+
+Output: ['tu', 'etes', 'brillants', '.', 'EOS']
+
+
+
+Epoch 450
+3.454696707194671e-05
+Input: we re unlucky .
+
+Target: nous sommes malchanceux .
+
+Output: ['nous', 'sommes', 'malchanceux', '.', 'EOS']
+
+
+
+Epoch 451
+5.362520823837258e-05
+Input: you re considerate .
+
+Target: tu es prevenant .
+
+Output: ['tu', 'es', 'prevenante', '.', 'EOS']
+
+
+
+Epoch 452
+8.248483936768025e-05
+Input: i m normal .
+
+Target: je suis normale .
+
+Output: ['je', 'suis', 'normal', '.', 'EOS']
+
+
+
+Epoch 453
+1.3972711712995078e-05
+Input: we re shocked .
+
+Target: nous sommes choquees .
+
+Output: ['nous', 'sommes', 'choques', '.', 'EOS']
+
+
+
+Epoch 454
+1.848373176471796e-05
+Input: you are overworked .
+
+Target: tu es surmenee .
+
+Output: ['tu', 'es', 'surmene', '.', 'EOS']
+
+
+
+Epoch 455
+1.7860636944533326e-05
+Input: you are drunk !
+
+Target: tu es bourre !
+
+Output: ['tu', 'es', 'saoul', '.', 'EOS']
+
+
+
+Epoch 456
+1.589102430443745e-05
+Input: you re cruel .
+
+Target: vous etes cruelle .
+
+Output: ['tu', 'etes', 'cruels', '.', 'EOS']
+
+
+
+Epoch 457
+1.3495732673618477e-05
+Input: you re extroverted .
+
+Target: vous etes extraverti .
+
+Output: ['tu', 'etes', 'extraverties', '.', 'EOS']
+
+
+
+Epoch 458
+1.4756093150936067e-05
+Input: they re kidding .
+
+Target: ils rigolent .
+
+Output: ['ils', 'sont', '.', 'EOS', 'EOS']
+
+
+
+Epoch 459
+1.464974138798425e-05
+Input: we re popular .
+
+Target: nous sommes populaires .
+
+Output: ['nous', 'sommes', 'populaire', '.', 'EOS']
+
+
+
+Epoch 460
+1.7420084986952133e-05
+Input: you re sarcastic .
+
+Target: vous etes sarcastique .
+
+Output: ['tu', 'etes', 'sarcastique', '.', 'EOS']
+
+
+
+Epoch 461
+4.8733742005424574e-05
+Input: they re great .
+
+Target: ils sont geniaux .
+
+Output: ['ils', 'sont', 'geniaux', '.', 'EOS']
+
+
+
+Epoch 462
+1.694798265816644e-05
+Input: we re busy .
+
+Target: nous sommes occupees .
+
+Output: ['nous', 'sommes', 'occupees', '.', 'EOS']
+
+
+
+************* saved_model ********************  463
+Epoch 463
+9.50171124713961e-06
+Input: i m amused .
+
+Target: ca m amuse .
+
+Output: ['je', 'va', 'amuse', '.', 'EOS']
+
+
+
+************* saved_model ********************  464
+Epoch 464
+8.309273653139826e-06
+Input: i m autistic .
+
+Target: je suis autiste .
+
+Output: ['je', 'suis', 'autiste', '.', 'EOS']
+
+
+
+Epoch 465
+3.492818359518424e-05
+Input: i am better .
+
+Target: je suis mieux .
+
+Output: ['je', 'suis', 'mieux', '.', 'EOS']
+
+
+
+Epoch 466
+9.302160833613016e-06
+Input: we re friends .
+
+Target: nous sommes amies .
+
+Output: ['nous', 'sommes', 'amies', '.', 'EOS']
+
+
+
+Epoch 467
+1.381362380925566e-05
+Input: you re rich .
+
+Target: vous etes riche .
+
+Output: ['tu', 'etes', 'riches', '.', 'EOS']
+
+
+
+Epoch 468
+1.003184024739312e-05
+Input: you re arrogant .
+
+Target: vous etes arrogante .
+
+Output: ['tu', 'etes', 'arrogant', '.', 'EOS']
+
+
+
+Epoch 469
+1.6872047126526013e-05
+Input: i m buying .
+
+Target: je paie .
+
+Output: ['je', 'suis', '.', 'EOS', '.']
+
+
+
+Epoch 470
+4.2713269067462534e-05
+Input: you re careless .
+
+Target: tu es negligent .
+
+Output: ['tu', 'es', 'negligente', '.', 'EOS']
+
+
+
+Epoch 471
+1.800018253561575e-05
+Input: you re productive .
+
+Target: vous etes productif .
+
+Output: ['tu', 'etes', 'productif', '.', 'EOS']
+
+
+
+Epoch 472
+0.00011961034761043265
+Input: i m satisfied .
+
+Target: je suis satisfait .
+
+Output: ['je', 'suis', 'satisfait', '.', 'EOS']
+
+
+
+Epoch 473
+6.092387411626987e-05
+Input: they re tired .
+
+Target: elles sont fatiguees .
+
+Output: ['elles', 'sont', 'fatiguees', '.', 'EOS']
+
+
+
+Epoch 474
+2.850190685421694e-05
+Input: they re surprised .
+
+Target: ils sont etonnes .
+
+Output: ['ils', 'sont', 'surprises', '.', 'EOS']
+
+
+
+Epoch 475
+2.7466792744235136e-05
+Input: they re special .
+
+Target: ils sont particuliers .
+
+Output: ['ils', 'sont', 'particuliers', '.', 'EOS']
+
+
+
+Epoch 476
+3.598587500164285e-05
+Input: she is crying .
+
+Target: elle pleure .
+
+Output: ['elle', 'est', '.', 'EOS', '.']
+
+
+
+Epoch 477
+2.3814785890863277e-05
+Input: you re nervous .
+
+Target: vous etes nerveuses .
+
+Output: ['tu', 'etes', 'nerveux', '.', 'EOS']
+
+
+
+Epoch 478
+2.0248278815415688e-05
+Input: you re horrible .
+
+Target: vous etes hideux .
+
+Output: ['tu', 'etes', 'hideuses', '.', 'EOS']
+
+
+
+Epoch 479
+3.422366353333928e-05
+Input: you re excused .
+
+Target: tu es excuse .
+
+Output: ['tu', 'es', 'excusee', '.', 'EOS']
+
+
+
+Epoch 480
+2.2869509848533198e-05
+Input: we re shy .
+
+Target: nous sommes timides .
+
+Output: ['nous', 'sommes', 'timides', '.', 'EOS']
+
+
+
+Epoch 481
+1.828805216064211e-05
+Input: i m well .
+
+Target: je vais bien .
+
+Output: ['je', 'suis', 'bien', '.', 'EOS']
+
+
+
+Epoch 482
+2.0473440599744208e-05
+Input: you re stupid .
+
+Target: tu es idiote .
+
+Output: ['tu', 'es', 'stupide', '.', 'EOS']
+
+
+
+Epoch 483
+2.056568700936623e-05
+Input: they re undamaged .
+
+Target: ils sont intacts .
+
+Output: ['ils', 'sont', 'intacts', '.', 'EOS']
+
+
+
+Epoch 484
+5.33107559022028e-05
+Input: she is powerful .
+
+Target: elle est puissante .
+
+Output: ['elle', 'est', 'puissant', '.', 'EOS']
+
+
+
+Epoch 485
+1.7686752471490763e-05
+Input: she is upset .
+
+Target: elle est perturbee .
+
+Output: ['elle', 'est', 'perturbee', '.', 'EOS']
+
+
+
+Epoch 486
+1.7652495444053784e-05
+Input: they re doctors .
+
+Target: elles sont medecins .
+
+Output: ['ils', 'sont', 'medecins', '.', 'EOS']
+
+
+
+Epoch 487
+4.714361784863286e-05
+Input: they re special .
+
+Target: ils sont speciaux .
+
+Output: ['elles', 'sont', 'particuliers', '.', 'EOS']
+
+
+
+Epoch 488
+1.7970971384784207e-05
+Input: you re pessimistic .
+
+Target: tu es pessimiste .
+
+Output: ['vous', 'es', 'pessimiste', '.', 'EOS']
+
+
+
+Epoch 489
+1.5359142707893625e-05
+Input: i m lucky .
+
+Target: je suis veinard .
+
+Output: ['je', 'suis', 'chanceuse', '.', 'EOS']
+
+
+
+Epoch 490
+1.753389551595319e-05
+Input: you re awesome .
+
+Target: vous etes genial .
+
+Output: ['vous', 'etes', 'geniale', '.', 'EOS']
+
+
+
+Epoch 491
+1.8105865819961764e-05
+Input: you re remarkable .
+
+Target: tu es remarquable .
+
+Output: ['vous', 'es', 'remarquable', '.', 'EOS']
+
+
+
+Epoch 492
+1.4126898349786643e-05
+Input: i m sorry .
+
+Target: excusez moi .
+
+Output: ['je', '.', '.', 'EOS', '.']
+
+
+
+Epoch 493
+1.1072036613768432e-05
+Input: they re harmless .
+
+Target: elles sont inoffensives .
+
+Output: ['ils', 'sont', 'inoffensives', '.', 'EOS']
+
+
+
+Epoch 494
+9.497415703663137e-06
+Input: he is cranky .
+
+Target: il est excentrique .
+
+Output: ['il', 'est', 'excentrique', '.', 'EOS']
+
+
+
+Epoch 495
+1.5957499272190034e-05
+Input: they re done .
+
+Target: ils ont termine .
+
+Output: ['ils', 'sont', 'termine', 'tort', 'EOS']
+
+
+
+Epoch 496
+1.0136855053133331e-05
+Input: they re kidding .
+
+Target: ils plaisantent .
+
+Output: ['ils', 'sont', '.', 'EOS', '.']
+
+
+
+Epoch 497
+8.964845619630069e-06
+Input: i m hiding .
+
+Target: je me cache .
+
+Output: ['je', 'suis', 'cache', '.', 'EOS']
+
+
+
+Epoch 498
+1.1175162399013061e-05
+Input: he is english .
+
+Target: il est anglais .
+
+Output: ['il', 'est', 'anglais', '.', 'EOS']
+
+
+
+Epoch 499
+5.0750666559906676e-05
+Input: you re nervous .
+
+Target: vous etes nerveux .
+
+Output: ['vous', 'etes', 'nerveuses', '.', 'EOS']
+
+
+
